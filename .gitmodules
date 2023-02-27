@@ -19,9 +19,6 @@
 [submodule "alarm-dog-php-sdk"]
 	path = alarm-dog-php-sdk
 	url = git@github.com:tal-tech/alarm-dog-php-sdk.git
-[submodule "alarm-dog-java-sdk"]
-	path = alarm-dog-java-sdk
-	url = git@github.com:tal-tech/alarm-dog-java-sdk.git
 [submodule "alarm-dog-golang-sdk"]
 	path = alarm-dog-golang-sdk
 	url = git@github.com:tal-tech/alarm-dog-golang-sdk.git
